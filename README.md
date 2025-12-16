@@ -78,7 +78,7 @@ RBDO_Agent/
 ### 1. 克隆项目
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/backtime1/Visual-LLM-RBDO.git
 cd RBDO_Agent
 ```
 
@@ -101,7 +101,7 @@ SILICONFLOW_API_KEY=your_siliconflow_api_key_here
 
 ### 3. 安装后端依赖
 
-**方式一：使用 uv（推荐）**
+**使用 uv（推荐）**
 
 ```bash
 # 安装 uv（如果尚未安装）
