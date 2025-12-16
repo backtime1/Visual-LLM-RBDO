@@ -79,7 +79,7 @@ RBDO_Agent/
 
 ```bash
 git clone https://github.com/backtime1/Visual-LLM-RBDO.git
-cd RBDO_Agent
+cd Visual-LLM-RBDO
 ```
 
 ### 2. 配置环境变量
