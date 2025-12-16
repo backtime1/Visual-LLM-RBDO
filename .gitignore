@@ -1,0 +1,79 @@
+# ==========================
+# Python
+# ==========================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environments
+.venv/
+venv/
+ENV/
+env/
+
+# ==========================
+# Environment & Secrets
+# ==========================
+.env
+.env.local
+.env.*.local
+*.pem
+secrets/
+
+# ==========================
+# IDE & Editor
+# ==========================
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# ==========================
+# Logs & Temp Files
+# ==========================
+*.log
+logs/
+tmp/
+temp/
+
+# ==========================
+# Frontend (Node.js)
+# ==========================
+node_modules/
+rbdo-frontend/node_modules/
+rbdo-frontend/dist/
+rbdo-frontend/.vite/
+
+# ==========================
+# UV Package Manager
+# ==========================
+# 注意：uv.lock 应该提交以确保依赖版本一致
+
+# ==========================
+# Project Specific
+# ==========================
+# 生成的结果文件
+results/
+output/
+*.csv
+*.xlsx
