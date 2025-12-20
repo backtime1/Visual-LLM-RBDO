@@ -129,7 +129,7 @@ npm install
 # 在项目根目录
 python app.py
 # 或使用 uv
-uv run python app.py
+uv run app.py
 ```
 
 后端将在 `http://localhost:5000` 启动
